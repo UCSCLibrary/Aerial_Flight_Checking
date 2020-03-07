@@ -13,7 +13,8 @@ assignees: ''
 - [ ] Index Map Filenames added to spreadsheet
 - [ ] Old Index map files moved to superceded directory
 - [ ] Old index map removed from the spreadsheet, if appropriate
-
+- [ ] Move new index to modified folder
+- [ ] Update extent field
 
 ## Filename QA Checklist
 
