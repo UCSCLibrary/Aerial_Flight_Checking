@@ -19,7 +19,7 @@ assignees: ''
 ## Filename QA Checklist
 
 - [ ] Photo filenames checked against spreadsheet, correction made
-- [ ] Check sample images for color profile
+- [ ] Check images for color profile
 - [ ] Rescans or image editing requested in ticket comments (if needed)
 
 ## File Preparation for Ingest Checklist
