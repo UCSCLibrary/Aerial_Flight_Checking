@@ -11,16 +11,17 @@ assignees: ''
 
 - [ ] Index Map Titles added to spreadsheet
 - [ ] Index Map Filenames added to spreadsheet
-- [ ] Old Index map files moved to superceded directory
-- [ ] Old index map removed from the spreadsheet, if appropriate
 - [ ] Move new index to modified folder
 - [ ] Update extent field
+- Old Index map files moved to superceded directory, if appropriate
+- Old index map removed from the spreadsheet, if appropriate
 
 ## Filename QA Checklist
 
 - [ ] Photo filenames checked against spreadsheet, correction made
 - [ ] Check images for color profile
-- [ ] Rescans or image editing requested in ticket comments (if needed)
+- [ ] Convert color profile to Adobe RGB 1998, if needed
+- Rescans or image editing requested in ticket comments (if needed)
 
 ## File Preparation for Ingest Checklist
 
